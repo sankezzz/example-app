@@ -1,5 +1,7 @@
 <?php
 
+namespace Practicals;
+
 /**
  * Class Song represents a music song with properties like title, artist, genre, and tempo.
  */
